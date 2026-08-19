@@ -13,7 +13,7 @@
             "key": "央",
             "name": "电视节目",
             "type": 3,
-            "jar": "https://cnb.cool/hjcfty/tytv/-/git/raw/master/jar/WvSpider.jar",
+            "jar": "./jar/WvSpider.jar",
             "api": "csp_WvSpider",
             "ext": "./lib/央播.js"
         },
